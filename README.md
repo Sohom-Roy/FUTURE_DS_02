@@ -2,6 +2,7 @@
 
 This project was built as part of my **Task 2** during the **Data Science & Analytics Internship** at **Future Interns**.  
 It focuses on building an interactive **Power BI dashboard** to analyze and visualize key performance metrics of simulated Facebook/Instagram ad campaigns.
+DASHBOARD LINL- https://app.powerbi.com/links/KaoJY366sl?ctid=82b836bd-489b-43ee-b0cd-b1e1afc0081f&pbi_source=linkShare
 
 ---
 
